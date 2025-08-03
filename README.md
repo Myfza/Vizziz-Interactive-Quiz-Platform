@@ -10,7 +10,6 @@ An engaging and interactive quiz platform that allows users to create, share, an
 - **Media Support**: Add images, videos, and audio to questions
 - **Time Management**: Set custom time limits for questions and entire quizzes
 - **Quiz Templates**: Pre-built templates for different subjects and purposes
-- **Import/Export**: Support for importing questions from various formats (CSV, Excel, etc.)
 
 ### For Quiz Participants
 - **Real-time Participation**: Live quiz sessions with instant feedback
@@ -19,13 +18,6 @@ An engaging and interactive quiz platform that allows users to create, share, an
 - **Progress Tracking**: Real-time progress indicators during quizzes
 - **Immediate Results**: Instant scoring and detailed explanations
 - **Leaderboard**: Competitive rankings and achievements
-
-### Administrative Features
-- **User Management**: Role-based access control (Admin, Teacher, Student)
-- **Analytics Dashboard**: Comprehensive reports on quiz performance
-- **Bulk Operations**: Manage multiple quizzes and users efficiently
-- **Security**: Secure authentication and data protection
-- **Customization**: Branded themes and custom styling options
 
 ## ⚡ Quick Start
 
